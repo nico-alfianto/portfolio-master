@@ -10,7 +10,7 @@ Description:
 Analyzed customer churn patterns to identify factors influencing customer retention.
 
 Repository:
-https://github.com/nico-alfianto/telco-customer-churn-analysis
+https://github.com/nico-alfianto/customer-churn-analysis
 
 ### 2. Sales Performance Analysis
 
