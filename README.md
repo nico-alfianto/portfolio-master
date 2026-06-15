@@ -31,4 +31,6 @@ https://github.com/nico-alfianto/sales-performance-analysis
 
 ## Contact
 
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/nico-alfianto
+Email: alfiantonico9@gmail.com 
+LinkedIn: https://www.linkedin.com/in/nico-alfianto
