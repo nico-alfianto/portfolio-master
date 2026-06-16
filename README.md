@@ -29,7 +29,7 @@ https://github.com/nico-alfianto/sales-performance-analysis
 Analyzed customer transaction behavior using RFM (Recency, Frequency, Monetary) analysis combined with logistic regression modeling to identify high-value customers and support targeted business strategies.
 
 **Repository:**  
-https://github.com/nico-alfianto/customer-value-analysis
+https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression
 
 ---
 
