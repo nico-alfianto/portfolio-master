@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio. This repository contains links to my data analysis projects completed using Python, Pandas, Matplotlib, Seaborn, and Google Colab.
+Hello I'm Nico Alfianto welcome to my Data Analyst Portfolio. This repository contains links to my data analysis projects completed using Python, Pandas, Matplotlib, Seaborn, and Google Colab.
 
 ---
 
