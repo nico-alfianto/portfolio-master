@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Nico%20Alfianto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IS%20Student%20Data%20and%20System%20Analyst&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Nico%20Alfianto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20and%20System%20Analyst&descAlignY=58" />
 </p>
 
 <div align="center">
@@ -35,12 +35,24 @@ I enjoy exploring data, designing efficient database structures, and transformin
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 Portfolio Highlights
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nico-alfianto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-alfianto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+| 📁 Projects | 📊 Records Analyzed | 🏆 Certifications | 🎓 GPA |
+|:-----------:|:-------------------:|:-----------------:|:------:|
+| **3+** | **400K+** | **6+** | **4.00** |
+
+</div>
+
+### 💼 Core Expertise
+
+- 📈 Exploratory Data Analysis (EDA)
+- 🗄️ SQL & Database Design
+- 🧹 Data Cleaning & Preprocessing
+- 📊 Data Visualization & Storytelling
+- 🤖 Customer Segmentation & Predictive Modeling
+- 📐 System Analysis & Business Process Modeling
 
 ---
 
